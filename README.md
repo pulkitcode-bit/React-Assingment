@@ -7,7 +7,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
 
-🔗 **Live Demo:** [your-vercel-link-here](#)
+🔗 **Live Demo:** [product-admin-dashboard-eta-mauve.vercel.app](https://product-admin-dashboard-eta-mauve.vercel.app)
 📦 **Repo:** [github.com/pulkitcode-bit/React-Assingment](https://github.com/pulkitcode-bit/React-Assingment)
 
 ---
